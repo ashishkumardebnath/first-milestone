@@ -1,3 +1,107 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.header{
+    text-align:center;
+    color:rgb(3, 135, 243);
+    font-weight: 900;
+    font-size: 50px;
+    padding-top: 70px;
+
+
+}
+#sin{
+    text-align: center;
+    color:red;
+    font-weight: bolder;
+}
+.link-button{
+    text-decoration: none;
+    background-color:yellow;
+    font-weight: 800;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    align-items: center;
+    
+    
+
+}
+.container{
+    text-align: center;
+}
+.image{
+    background-image: url(images/donation30.png);filter:
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-left: 0px;
+     }
+
+     .cos{
+        text-align: center;
+     }
+     .flexible-container{
+        display: flex; 
+        margin-left: 28%;
+    
+       
+        }
+    .cosec{
+        box-shadow: 300px 300px 500px;
+        padding:2%;
+        font-weight: bold;
+        color:black;
+        background-color: bisque;
+        margin: 15px;
+    
+    }
+    .cot{
+        text-align: center;
+        margin-top: 3%;
+    }
+    .sec{
+        text-decoration: underline black;
+        font-weight: bold;
+    }
+    .text-align{
+        text-align: center;
+        margin-top: 7%;
+        
+    }
+    .flexible-container-pro{
+        display: flex;
+    }
+    .container-box{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    border: 5px gray;
+    background-color: aquamarine;
+
+ 
+    }
+    .container-box-2{
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 2%;
+        border: 5px gray;
+        background-color: antiquewhite;
+    }
+    .container-box-3{
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 2%;
+        border: 5px gray;
+        background-color: coral;
+    }
+    .bolded{
+        font-size: 30px;
+    }
+    
+     
+        
+        
+        
+        
+        
+     }
