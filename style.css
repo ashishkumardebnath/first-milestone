@@ -17,12 +17,14 @@ body{
 }
 .link-button{
     text-decoration: none;
+    text-decoration: none;
     background-color:yellow;
     font-weight: 800;
     border-radius: 5px;
     color: black;
     padding: 10px;
     align-items: center;
+    
     
     
 
@@ -59,10 +61,8 @@ body{
         text-align: center;
         margin-top: 3%;
     }
-    .sec{
-        text-decoration: underline black;
-        font-weight: bold;
-    }
+  
+    
     .text-align{
         text-align: center;
         margin-top: 7%;
@@ -97,11 +97,44 @@ body{
     .bolded{
         font-size: 30px;
     }
+    .container-last{
+        display: flex;
+        margin-top: 100px;
+    }
+    .
+    .helping{
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 2%;
+        border: 5px rgb(48, 3, 3);
+        background-color: white;
+    }
+    h5{
+        font-size: 25px;
+    }
+    .helped{
+    box-shadow: 20px 20px 20px ;
+    padding-left: 30px;
+    }
+    #last{
+        text-align: center;
+        margin-top: 150px;
+        font-weight: bold;
+    }
+    .center{
+        text-align: center;
+        width: 450px;
+        border:  0px solid green;
+        padding: 50px;
+        margin: 20px;
+        margin-left: 380px;
+        background-color: blanchedalmond;
     
-     
-        
-        
-        
-        
-        
-     }
+    }
+    footer{
+        text-align: center;
+        background-color: black;
+        color: crimson;
+        height: 200px;
+        padding-top: 20px;
+    }
